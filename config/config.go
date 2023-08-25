@@ -4,7 +4,7 @@ const (
 	/*
 		Telegram bot configurations.
 	*/
-	API        = "6597788805:AAH_Wq0iNd_4yQCwQW3xpd3e82b09aMZ2zA"
+	API        = "AAH_Wq0iNd_4yQCwQW3xpd3e82b09aMZ2zA"
 	MSG_REPLY  = false
 	DEBUG_MODE = false
 	TIMEOUT    = 30
